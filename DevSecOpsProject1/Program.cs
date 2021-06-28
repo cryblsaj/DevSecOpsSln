@@ -6,7 +6,7 @@ namespace DevSecOpsProject1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"Sum of 2 + 2 = {Arithmetic.Add(2,2)}");
         }
     }
 }
