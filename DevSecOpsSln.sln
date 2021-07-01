@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSecOpsProject1", "DevSecOpsProject1\DevSecOpsProject1.csproj", "{000649DB-2C7E-4A15-8B66-64B6E156765F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevSecOpsProject1", "DevSecOpsProject1\DevSecOpsProject1.csproj", "{000649DB-2C7E-4A15-8B66-64B6E156765F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{3D2C763D-A667-4A67-976A-212F79B22BBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{3D2C763D-A667-4A67-976A-212F79B22BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevSecOpsProject2", "DevSecOpsProject2\DevSecOpsProject2.csproj", "{11A91107-E044-493E-A9F5-DD1875A5AF8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3D2C763D-A667-4A67-976A-212F79B22BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D2C763D-A667-4A67-976A-212F79B22BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D2C763D-A667-4A67-976A-212F79B22BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A91107-E044-493E-A9F5-DD1875A5AF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A91107-E044-493E-A9F5-DD1875A5AF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A91107-E044-493E-A9F5-DD1875A5AF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A91107-E044-493E-A9F5-DD1875A5AF8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
